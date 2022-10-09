@@ -1,0 +1,7 @@
+package-as: Finklestein_GPS
+enable-nolib-creation: no
+
+ignore:
+  - .gitignore
+  - .pkgmeta
+  - README.md

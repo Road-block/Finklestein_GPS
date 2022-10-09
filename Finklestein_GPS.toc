@@ -1,0 +1,14 @@
+## Interface: 30400
+## Title: Finklestein GPS
+## Notes: Zul'Drak daily "Troll Patrol: The Alchemist's Apprentice" Helper
+## Author: Road-block
+## SavedVariables: FinklesteinGPSDB
+## Version: 1.0.0
+## OptionalDeps: Ace3
+## X-Credits: Xinhuan, Zhardoom
+
+embeds.xml
+
+locale\enUS.lua
+core.lua
+
